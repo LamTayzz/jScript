@@ -1,3 +1,36 @@
 * {
     margin: 0;
+    padding: 0;
+}
+span{
+    padding: 40px;
+    padding-top: 100px;
+}
+div{
+    text-align: center;
+    background-color: white;
+    width: fit-content;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 15px;
+    color: black;
+    cursor: grab;
+    margin-bottom: 50px;
+    
+}
+body{
+    background-color: bisque;
+}
+button{
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 50px;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 25px;
 }
